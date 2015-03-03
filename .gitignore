@@ -1,0 +1,18 @@
+# Generated directories
+build/
+
+# Dependencies
+bower_components/
+node_modules/
+
+# IDE files
+.idea/
+
+# NPM
+npm-debug.log
+
+# VCS
+.svn
+
+# OS-specific files
+.DS_Store
