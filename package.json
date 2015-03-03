@@ -4,10 +4,11 @@
   "description": "Congratulations on making it this far! We are now going to be examining your coding abilities.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma start"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "dependencies": {},
   "dependencies": {},
   "devDependencies": {
     "karma-chrome-launcher": "^0.1.7",
