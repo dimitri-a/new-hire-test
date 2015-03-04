@@ -136,3 +136,7 @@ var data = [
 For avatars use:
 ``http://api.adorable.io/avatars/120/[ persons name goes here ]@adorable.png``
 
+eg
+
+``http://api.adorable.io/avatars/120/alex@adorable.png``
+
