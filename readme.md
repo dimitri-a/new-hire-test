@@ -62,15 +62,6 @@ The sass will automatically recompile for you if you run `grunt watch`
 We are looking to make a simple staff search application.
 As the user types a *search query* the matching results are shown.
 
-### Tests
-We would like to see a few automated tests to ensure your code is running correctly.
-Do not worry about coding up a comprehensive suite, just one or two tests to show that you know how to construct and use tests.
-
-- We are using `Karma` + `mocha` + `expect.js` + `sinon.js` [if you need it].
-- These are already configured and will install when you run `npm i`
-- You can start the `Karma` tests by typing `npm test` or `karma start` into the command line at the root of the project
-- `Karma` is setup to automatically run any test suites found in the `test` folder (`test/**/*.js`)
-
 #### Desktop view:
 
 ![Desktop View](https://bitbucket.org/cogddt/new-hire-test/raw/master/documentation/desktop.png)
@@ -139,4 +130,17 @@ For avatars use:
 eg
 
 ``http://api.adorable.io/avatars/120/alex@adorable.png``
+
+### Tests
+We would like to see a few automated tests to ensure your code is running correctly.
+Do not worry about coding up a comprehensive suite, just one or two tests to show that you know how to construct and use tests.
+
+- We are using `Karma` + `mocha` + `expect.js` + `sinon.js` [if you need it].
+- These are already configured and will install when you run `npm i`
+- You can start the `Karma` tests by typing `npm test` or `karma start` into the command line at the root of the project
+- `Karma` is setup to automatically run any test suites found in the `test` folder (`test/**/*.js`)
+
+### Style
+You should be able to get by mostly with `twitter bootstrap` which is already included in `main.js`.
+You are welcome to add additional styles if you would like. 
 
