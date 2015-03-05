@@ -41,6 +41,7 @@ A few things you don't have to worry about in order to keep the time down:
 - bower
 - sass
 - grunt
+- karma (`npm i karma-cli -g`)
 
 ## Setup
 
@@ -142,5 +143,5 @@ Do not worry about coding up a comprehensive suite, just one or two tests to sho
 
 ### Style
 You should be able to get by mostly with `twitter bootstrap` which is already included in `main.js`.
-You are welcome to add additional styles if you would like. 
+You are welcome to add additional styles if you would like.
 
